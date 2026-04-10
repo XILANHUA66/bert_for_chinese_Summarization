@@ -1,0 +1,2 @@
+# bert_for_chinese_Summarization
+用fnlp在LCSTS训练集上完成中文生成式摘要任务
